@@ -1,4 +1,4 @@
-# 🧠 IBM HR Attrition — Employee Turnover Prediction
+# IBM HR Attrition — Employee Turnover Prediction
 
 Predicting which employees are most likely to leave, and understanding **why**, so HR teams can intervene before it's too late.
 
