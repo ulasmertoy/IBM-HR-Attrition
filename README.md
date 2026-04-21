@@ -10,6 +10,13 @@ Employee attrition is expensive — replacing a single employee can cost 50-200%
 
 ---
 
+## Dataset
+IBM HR Analytics Employee Attrition Dataset
+Features include:
+Demographics (Age, Gender)
+Job-related (Role, Income, Tenure)
+Behavioral (OverTime, Job Satisfaction)
+
 ## Key Findings from EDA
 
 - **Overtime is the dominant signal.** Employees working overtime leave at 3× the rate of those who don't (30.5% vs 10.4%).
